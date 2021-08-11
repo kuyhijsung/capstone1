@@ -1,0 +1,47 @@
+body {
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    background-color: #E2E2E2;
+}
+
+h1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.form-input {
+    width: 500px;
+    margin: auto;
+}
+
+form {
+    display: flex;
+}
+
+input[type=text] {
+    flex-grow: 1;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    border: 2px solid #f2f2f2;
+    transition: 0.5s ease;
+}
+
+img:hover {
+    filter: brightness(70%);
+}
+
+form {
+    margin-bottom: 30px;
+}
+
+i {
+    margin-right: 15px;
+}
+
+.card-body {
+    background: #f2f2f2;
+    color: black;
+}
