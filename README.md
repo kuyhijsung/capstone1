@@ -24,7 +24,8 @@
 
 - [CocktailDB](https://www.thecocktaildb.com/)
 
-## Stack
+## Technologies
 
-- Python/Flask
+- Python
+- Flask
 - Postgresql
