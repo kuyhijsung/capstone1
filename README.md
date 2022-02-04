@@ -28,4 +28,4 @@
 
 - Python
 - Flask
-- Postgresql
+- PostgreSQL
